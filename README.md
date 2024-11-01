@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/2e6bf0be-77ed-4bf7-8a62-50cde7fce170)
+![image](https://github.com/user-attachments/assets/03b4abe4-3310-496a-8fde-1592103745b2)
+
 
 - 👋 Hi, I’m @kien123sad
 - 👀 I’m interested in security analysis, incident response, and web development.
